@@ -18,7 +18,7 @@
 
 
 
-*3.**Lead Generation*** 
+*3.**Lead Generation***
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-*5.**Contract and Proposal Writer*** 
+*5.**Contract and Proposal Writer***
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-*8.**Omniroute  Repo**  - uses multiple more agents regardless of limits* 
+*8.**Omniroute  Repo**  - uses multiple more agents regardless of limits*
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-*10.**Emil kowalawski**  -for making ai select best Choice for design* 
+*10.**Emil kowalawski**  -for making ai select best Choice for design*
 
 
 
@@ -98,7 +98,7 @@
 
 
 
-*13.**Genjutsu**   -for design and animation* 
+*13.**Genjutsu**   -for design and animation*
 
 
 
@@ -122,7 +122,7 @@
 
 
 
-*16.**ui ux pro max skill**  -provides design intelligence for building UI/UX* 
+*16.**ui ux pro max skill**  -provides design intelligence for building UI/UX*
 
 
 
@@ -138,7 +138,7 @@
 
 
 
-*18.**design taste skill**  -avoid making ai slop and gives ai a taste* 
+*18.**design taste skill**  -avoid making ai slop and gives ai a taste*
 
 
 
@@ -146,9 +146,49 @@
 
 
 
-*19.**ai watermark remover**   -removes watermark encrypted in Artifacts*
+*19.**ai watermark remover**   -removes watermark encrypted in Claude Artifacts*
 
 
 
 *https://github.com/wiltodelta/remove-ai-watermarks*
+
+
+
+20\.***Prompt master*** - for less token usage input
+
+
+
+https://github.com/nidhinjs/prompt-master
+
+
+
+21\.***ThreeJS Skill*** - For 3d elements and interactive experience
+
+
+
+https://github.com/CloudAI-X/threejs-skills
+
+
+
+22\.***GreenSock*** - Library For timeline,scroll driven animation
+
+
+
+https://github.com/greensock/gsap-skills
+
+
+
+23\.***Unrestricted open source ai video platform***
+
+
+
+https://github.com/Anil-matcha/Open-Generative-AI 
+
+
+
+24\.***Spatial UI Framework*** - with interaction, locomotion,spatial ui
+
+
+
+https://github.com/facebook/immersive-web-sdk
 
